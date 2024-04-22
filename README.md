@@ -1,3 +1,12 @@
+<p>Este projeto por enquanto roda apenas no terminal do Node, pois só fiz o back-end, algum dia, eu termino o front end e deixo bem mais bonita a aplicação 🤠</p>
+
+
+
+
+
+
+
+
 <h1>Mario Kart.JS</h1>
 
   <table>
